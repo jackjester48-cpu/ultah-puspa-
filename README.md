@@ -1,3 +1,11 @@
+index.html
+foto1.jpg
+foto2.jpg
+foto3.jpg
+foto4.jpg
+foto5.jpg
+somebodymp3
+
 <!DOCTYPE html>
 <html>
 <head>
